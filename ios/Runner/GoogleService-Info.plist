@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>704482029158-bkutjesp7qu13lvp8j9jrr9rfgfe9amc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.704482029158-bkutjesp7qu13lvp8j9jrr9rfgfe9amc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>704482029158-k7ncbqcgq3u0io56hr4oise5843r8q8h.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDL5L1mpBa_yav2BR9LybRjVsAH2eS8TrU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>704482029158</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.aiconnected.media</string>
+	<key>PROJECT_ID</key>
+	<string>ai-connect-2nbpnn</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ai-connect-2nbpnn.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:704482029158:ios:cfd6369d5a6a92fce447a7</string>
+	<key>DATABASE_URL</key>
+	<string>https://ai-connect-2nbpnn-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "704482029158",
+    "firebase_url": "https://ai-connect-2nbpnn-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ai-connect-2nbpnn",
+    "storage_bucket": "ai-connect-2nbpnn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704482029158:android:e355608b74048430e447a7",
+        "android_client_info": {
+          "package_name": "com.aiconnected.media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704482029158-k7ncbqcgq3u0io56hr4oise5843r8q8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aiconnected.media",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "704482029158-f0vdtiipu5hg573uhciqfduhmtdeiro5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzNjCTFdc_PnanAVbG0Ehn8rFo7YnaG28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704482029158-84iipb1821nuqj9lrlfdi9m6pbkk7o8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704482029158-bkutjesp7qu13lvp8j9jrr9rfgfe9amc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aiconnected.media"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
